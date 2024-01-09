@@ -1,0 +1,23 @@
+
+  
+  .pagination-container {
+    margin-top: 20px;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .pagination li {
+    margin: 0 5px; /* Adjust as needed */
+    cursor: pointer;
+  }
+  
+  .pagination li.active {
+    font-weight: bold;
+  }
+  
