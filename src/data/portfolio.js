@@ -8,7 +8,7 @@ export default [
    {
       title: 'Laravel APP sportner',
       imgUrl: './assets/sportner.png',
-      stack: ['.net mvc', 'Identity', 'SQLserver'],
+      stack: ['Laravel', 'Blade', 'MySQL'],
       link: 'https://github.com/firas-b/Blogs-with-Auth',
    }
 

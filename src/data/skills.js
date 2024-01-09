@@ -4,7 +4,7 @@ const skills = [
     { imageUrl: './assets/react.png', name: 'React.js' },
     { imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png', name: 'Java' },
     { imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png', name: 'Python' },
-    { imageUrl: '/assets/spring-boot-logo-removebg-preview.png', name: 'Spring Boot' },
+    { imageUrl: './assets/spring-boot-logo-removebg-preview.png', name: 'Spring Boot' },
     { imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png', name: 'PostgreSQL' },
     { imageUrl: './assets/git.png', name: 'Git' },
     { imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-docker-226091.png', name: 'docker' },
