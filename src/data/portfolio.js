@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Carpooling App",
+    imgUrl: "./assets/Untitled.png",
+    stack: ["Spring Boot 3 ", "Angular", "jwt", "PostgreSQL"],
+    link: "",
+  },
+  {
     title: "E-vents App",
     imgUrl: "./assets/events.png",
     stack: [".net ", "react", "jwt", "SQLserver"],
