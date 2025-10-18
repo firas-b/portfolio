@@ -42,8 +42,8 @@ const portfolio = [
   {
     title: "Clinical Microservices Platform",
     images: [
-   "/assets/clinicore/doctorsbyadmin.png","/assets/clinicore/forward .png","/assets/clinicore/myposts_elena.png",
-   "/assets/clinicore/post details.png","/assets/clinicore/ai2.png","/assets/clinicore/admin dashboard.png",
+   "./assets/clinicore/doctorsbyadmin.png","./assets/clinicore/forward .png","./assets/clinicore/myposts_elena.png",
+   "./assets/clinicore/post details.png","./assets/clinicore/ai2.png","./assets/clinicore/admin dashboard.png",
   
     ],
     stack: ["Spring Boot", "Angular", "Kafka", "Keycloak", "Python"],
@@ -53,7 +53,7 @@ const portfolio = [
   {
     title: "Carpooling App",
     images: [
-      "/assets/Untitled.png",
+      "./assets/Untitled.png",
       
     ],
     stack: ["Spring Boot", "Angular", "JWT", "PostgreSQL"],
@@ -63,7 +63,7 @@ const portfolio = [
   {
     title: "E-vents App",
     images: [
-      "/assets/events.png",
+      "./assets/events.png",
      
     ],
     stack: [".NET Core", "React", "JWT", "SQL Server"],
@@ -241,7 +241,7 @@ function App() {
           <div className="relative mb-8 group">
             <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 animate-pulse"></div>
             <img
-              src="/assets/profile.png"
+              src="./assets/profile.png"
               alt="Firas Boukhchim"
               className="relative w-32 h-32 md:w-40 md:h-40 object-cover rounded-full border-4 border-white dark:border-slate-800 shadow-2xl"
             />
