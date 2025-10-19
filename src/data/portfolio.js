@@ -10,7 +10,7 @@ export const portfolio = [
       "./assets/healthvault/Screenshot 2025-10-19 143530.png"
     ],
     stack: ["Spring Boot", "Angular", "PostgreSQL", "JWT","Rate limiting"],
-    link: "#",
+    link: "https://drive.google.com/file/d/1_N9aCUkmfo6JotUiNwTHpSVOoCXQDDQb/view?usp=sharing",
     description: "Comprehensive Electronic Medical Records management system with patient tracking, prescriptions, vitals monitoring, and healthcare provider registration"
   },
   {
