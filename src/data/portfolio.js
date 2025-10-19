@@ -1,14 +1,28 @@
 export const portfolio = [
   {
+    title: "HealthVault - Advanced EMR System",
+    images: [
+      "./assets/healthvault/Screenshot 2025-10-19 143242.png",
+      "./assets/healthvault/Screenshot 2025-10-19 143307.png",
+      "./assets/healthvault/Screenshot 2025-10-19 143330.png",
+      "./assets/healthvault/Screenshot 2025-10-19 143407.png",
+      "./assets/healthvault/Screenshot 2025-10-19 143446.png",
+      "./assets/healthvault/Screenshot 2025-10-19 143530.png"
+    ],
+    stack: ["Spring Boot", "Angular", "PostgreSQL", "JWT","Rate limiting"],
+    link: "#",
+    description: "Comprehensive Electronic Medical Records management system with patient tracking, prescriptions, vitals monitoring, and healthcare provider registration"
+  },
+  {
     title: "Clinical Microservices Platform",
     images: [
    "./assets/clinicore/doctorsbyadmin.png","./assets/clinicore/forward .png","./assets/clinicore/myposts_elena.png",
    "./assets/clinicore/post details.png","./assets/clinicore/ai2.png","./assets/clinicore/admin dashboard.png",
   
     ],
-    stack: ["Spring Boot", "Angular", "Kafka", "Keycloak", "Python"],
+    stack: ["Spring Boot", "Angular", "Kafka", "Keycloak", "Websocket","Python"],
     link: "#",
-    description: "EMR system with microservices architecture"
+    description: "Clinical platform helping health providers to collaborate and share knowledge, manage posts, and utilize AI for medical insights,manage patients medical records and chat, with robust security and scalability"
   },
   {
     title: "Carpooling App",
