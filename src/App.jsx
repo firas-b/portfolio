@@ -71,7 +71,7 @@ const timeline = [
     year: 'Jul 2024',
     title: 'Full Stack Developer @ Xtendplex',
     duration: 'Jul 2024 – Jan 2025',
-    details: 'Developed ship tracking and crew management modules with Django. Built RESTful APIs with Keycloak access control. Created a CLI tool with Cookiecutter to automate FastAPI project creation.',
+    details: 'Developed ship tracking and crew management modules with spring and angular . Built RESTful APIs with Keycloak access control. Created a CLI tool with Cookiecutter to automate FastAPI project creation.',
     location: 'Manzah, Tunisia'
   },
   {
