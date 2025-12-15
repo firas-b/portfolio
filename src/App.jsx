@@ -63,7 +63,7 @@ const timeline = [
   {
     year: 'Feb 2025',
     title: 'Software Developer @ Capgemini Engineering',
-    duration: 'Feb 2025 – Present',
+    duration: 'Feb 2025 – jUN 2025',
     details: 'Designed an EMR system with Spring Boot and Angular for medical workflows. Developed scalable microservices with Kafka for real-time communication and Keycloak for authentication.',
     location: 'Ariana, Tunisia'
   },
